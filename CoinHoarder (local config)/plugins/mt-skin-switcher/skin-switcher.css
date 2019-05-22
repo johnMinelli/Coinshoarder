@@ -1,0 +1,178 @@
+/*General for skin switcher*/
+.mt_skin_switcher #demopanel {
+    right: 0px; 
+    position: fixed; 
+    top: 0; 
+    z-index: 2222;
+    height: 100%;
+}
+.mt_skin_switcher #panel {
+    position:relative;
+    right:-300px;
+    overflow-y: scroll;
+}
+.mt_skin_switcher .panel_button { 
+    position: relative; 
+    right:0px; 
+    width:48px; 
+    cursor: pointer; 
+    z-index:10;
+    top: 30%;
+}
+.mt_skin_switcher .panel_button a:hover i {
+    opacity: 0.6;
+}
+.mt_skin_switcher #panel {
+    background: white;
+    color: #252525;
+    font-size: 10px;
+    right: -280px;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    width: 300px;
+    box-shadow: 0 5px 25px 10px rgba(0, 0, 0, 0.08) !important;
+}
+.mt_skin_switcher #panel select { 
+    margin-bottom:5px; 
+    width:120px;
+}
+.mt_skin_switcher #panel .selector ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.mt_skin_switcher #panel .selector  ul li {
+    border: 1px solid #888888;
+    cursor: pointer;
+    float: left;
+    height: 15px;
+    margin: 3px;
+    width: 15px;
+    background-color:#fff;
+}
+
+.mt_skin_switcher .panel_button a {
+    margin-bottom: 14px;
+    display: block;
+}
+.mt_skin_switcher .panel_button a:last-of-type {
+    margin-bottom: 0;
+}
+.mt_skin_switcher .panel_button {
+    background: #FFFFFF none repeat scroll 0 0;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    position: fixed;
+    padding-bottom: 15px;
+    padding-left: 0;
+    padding-top: 15px;
+    box-shadow: -30px 0 30px 0px rgba(0, 0, 0, 0.08) !important;
+    border-radius: 6px 0 0 6px;
+}
+.mt_skin_switcher .panel_button i{
+    color:#666;
+    font-size:20px;
+    text-align: center;
+}
+.mt_skin_switcher .colors_buttons span {
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    width: 30px;
+    position: relative;
+    border-radius: 5px;
+}
+.mt_skin_switcher .colors_buttons span.currentStyle::before {
+    position: absolute;
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    line-height: 30px;
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.65;
+}
+.mt_skin_switcher .theme_variants > a {
+    display: block;
+    margin-bottom: 15px;
+}
+.template_demo_item_overlay_inner {
+    align-self: center;
+    width: 100%;
+}
+.template_demo_item{
+    position: relative;
+    overflow: hidden;
+}
+.template_demo_item h3 {
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    font-size: 17px;
+}
+.mt_skin_switcher p {
+    font-size: 13px;
+    line-height: normal;
+    margin-bottom: 15px;s 
+}
+.template_demo_item:hover .template_demo_item_overlay {
+    opacity: 1;
+    visibility: visible;
+}
+.template_demo_item a:hover {
+    opacity: 0.8;
+}
+.template_demo_item a {
+    border: 2px solid;
+    transition: all 250ms;
+    padding: 8px 15px;
+    display: inline-table;
+    font-weight: bold;
+    border-radius: 0px;
+    opacity: 1;
+    color: #fff;
+    margin-top: 8px;
+}
+#panel > h3{
+    margin-bottom: 0px; 
+}
+.template_demo_item_overlay {
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    text-align: center;
+    padding: 0 15px;
+    transition: all 250ms;
+    opacity: 0;
+    visibility: hidden;
+}
+
+/*COLORS*/
+.mt_skin_switcher .template-blue{       background: #00ADEF; box-shadow: 0px 5px 25px -3px #00ADEF;}
+.mt_skin_switcher .template-green{      background: #2DCC70; box-shadow: 0px 5px 25px -3px #2DCC70;}
+.mt_skin_switcher .template-turquoise{  background: #1BBC9B; box-shadow: 0px 5px 25px -3px #1BBC9B;}
+.mt_skin_switcher .template-grey{       background: #95A5A5; box-shadow: 0px 5px 25px -3px #95A5A5;}
+.mt_skin_switcher .template-orange{     background: #E77E23; box-shadow: 0px 5px 25px -3px #E77E23;}
+.mt_skin_switcher .template-red{        background: #E84C3D; box-shadow: 0px 5px 25px -3px #E84C3D;}
+.mt_skin_switcher .template-yellow{     background: #FFD600; box-shadow: 0px 5px 25px -3px #FFD600;}
+.mt_skin_switcher .template-purple{     background: #9b59b6; box-shadow: 0px 5px 25px -3px #9b59b6;}
+.mt_skin_switcher .template-yahoo{      background: #400191; box-shadow: 0px 5px 25px -3px #400191;}
+.mt_skin_switcher .template-dribbble{   background: #ea4c89; box-shadow: 0px 5px 25px -3px #ea4c89;}
+.mt_skin_switcher .template-pinterest{  background: #cb2027; box-shadow: 0px 5px 25px -3px #cb2027;}
+.mt_skin_switcher .template-cyan{       background: #1BC9E4; box-shadow: 0px 5px 25px -3px #1BC9E4;}
+.mt_skin_switcher .template-linkedin{   background: #4875b4; box-shadow: 0px 5px 25px -3px #4875b4;}
+
+
+
+/*IMAGES*/

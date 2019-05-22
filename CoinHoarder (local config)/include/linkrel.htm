@@ -1,0 +1,870 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- FONTS -->
+<script>
+    /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+    if (typeof WebFontConfig === "undefined") {
+        WebFontConfig = new Object();
+    }
+    WebFontConfig['google'] = {families: ['Montserrat']};
+
+    (function () {
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+    })();
+</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel='stylesheet' id='tp-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='tp-raleway-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='tp-droid-serif-css' href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='vc_google_fonts_montserratregular700-css' href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700&#038;ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-fonts-css' href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700%2Clatin&#038;ver=1.0.0' type='text/css' media='all'/>
+<!-- SHARED RESOURCES-->
+<link rel="shortcut icon" href="/coinhoarder/img/favicon.png">
+<link rel='stylesheet' id='simple-line-icons-css' href='/coinhoarder/css/simple-line-icons.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel='stylesheet' id='font-awesome-css' href='/coinhoarder/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='font-awesome-animate-css' href='/coinhoarder/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome-animation.min.css?ver=4.7.0' type='text/css' media='all'/>
+<!-- SHARED PLUGIN-->
+<link rel='stylesheet' id='style-select2-css' href='/coinhoarder/plugins/select2/select2.min.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='js_composer_front-css' href='/coinhoarder/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='animate-css-css' href='/coinhoarder/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.4.5' type='text/css' media='all'/>
+<!-- ANIMATION -->
+<link rel='stylesheet' id='style-animations-css' href='/coinhoarder/css/animations.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='animate-css' href='/coinhoarder/css/animate.css?ver=4.9.1' type='text/css' media='all'/>
+<!-- THEME -->
+<link rel='stylesheet' id='cryptic-responsive-css' href='/coinhoarder/css/theme/responsive.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-media-screens-css' href='/coinhoarder/css/theme/media-screens.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='style-shortcodes-inc-css' href='/coinhoarder/css/shortcodes.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-style-css' href='/coinhoarder/css/theme/styles.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-navigations-style-css' href='/coinhoarder/css/theme/styles-module-navigations.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-header-style-css' href='/coinhoarder/css/theme/styles-headers.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='cryptic-footer-style-css' href='/coinhoarder/css/theme/styles-footer.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='loaders-css' href='/coinhoarder/css/theme/loaders.css?ver=4.9.1' type='text/css' media='all'/>
+
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/coinhoarder/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+<noscript>
+    <style type="text/css"> .wpb_animate_when_almost_visible {
+        opacity: 1; }
+    </style>
+</noscript>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- JQUERY -->
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src="/coinhoarder/plugins/jquery/jquery.scrollbar.min.js"></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.ketchup.js?ver=0.3.1'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.validation.js?ver=1.13.1'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.sticky.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.parallax.js?ver=1.1.3'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.appear.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.countTo.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/jquery.sticky-kit.min.js?ver=1.0.0'></script>
+<!--accordions-->
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<!-- SHARED PLUGIN-->
+<script type='text/javascript' src='/coinhoarder/plugins/classie/classie.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/bootstrap/bootstrap.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/select2/select2.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5'></script>
+<script type='text/javascript' src='/coinhoarder/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.5'></script>
+<!-- SHARED -->
+<script type='text/javascript' src='/coinhoarder/js/animate.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/js/loaders.css.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/coinhoarder/js/main.js'></script>
+<!-- THEME -->
+<script type='text/javascript' src='/coinhoarder/js/theme/cryptic-custom.js?ver=1.0.0'></script>        <!-- + -->
+<script type='text/javascript' src='/coinhoarder/js/theme/mt-plugins.js?ver=1.0.0'></script>            <!-- - -->
+<script type='text/javascript' src='/coinhoarder/js/theme/percircle.js?ver=1.0.0'></script>             <!-- - -->
+<script type='text/javascript' src='/coinhoarder/js/theme/modeltheme-custom.js?ver=1.0.0'></script>     <!-- - -->
+<script type='text/javascript' src='/coinhoarder/js/theme/main.js?ver=1.0.0'></script>                  <!-- + -->
+<script type='text/javascript' src='/coinhoarder/js/theme/owl.carousel.js?ver=1.0.0'></script>          <!-- + -->
+<script type='text/javascript' src='/coinhoarder/js/theme/wow.min.js?ver=1.0.0'></script>               <!-- + -->
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<style id='cryptic-mt-style-inline-css' type='text/css'>
+
+    .back-to-top {
+        background: transparent;
+        color: #ffffff;
+    }
+
+    .back-to-top:hover {
+        background: transparent;
+        color: #ffffff;
+    }
+
+    .breadcrumb a::after {
+        content: "/";
+    }
+    ::selection {
+        color: #ffffff;
+        background: #ffd600;
+    }
+
+    ::-moz-selection { /* Code for Firefox */
+        color: #ffffff;
+        background: #ffd600;
+    }
+
+    a {
+        color: #ffd600;
+    }
+
+    a:focus,
+    a:hover {
+        color: #e5c000;
+    }
+
+    /*------------------------------------------------------------------
+        COLOR
+    ------------------------------------------------------------------*/
+    a,
+    a:hover,
+    a:focus,
+    .mt_car--tax-type,
+    span.amount,
+    .widget_popular_recent_tabs .nav-tabs li.active a,
+    .widget_product_categories .cat-item:hover,
+    .widget_product_categories .cat-item a:hover,
+    .widget_archive li:hover,
+    .widget_archive li a:hover,
+    .widget_categories .cat-item:hover,
+    .widget_categories li a:hover,
+    .pricing-table.recomended .button.solid-button,
+    .pricing-table .table-content:hover .button.solid-button,
+    .pricing-table.Recommended .button.solid-button,
+    .pricing-table.recommended .button.solid-button,
+    #sync2 .owl-item.synced .post_slider_title,
+    #sync2 .owl-item:hover .post_slider_title,
+    #sync2 .owl-item:active .post_slider_title,
+    .pricing-table.recomended .button.solid-button,
+    .pricing-table .table-content:hover .button.solid-button,
+    .testimonial-author,
+    .testimonials-container blockquote::before,
+    .testimonials-container blockquote::after,
+    .post-author > a,
+    h2 span,
+    label.error,
+    .author-name,
+    .prev-next-post a:hover,
+    .night-mood-background .breadcrumb-cryptic a:hover:not(#new-hoard),
+    .prev-text,
+    .wpb_button.btn-filled:hover,
+    .next-text,
+    .social ul li a:hover i,
+    .wpcf7-form span.wpcf7-not-valid-tip,
+    .text-dark .statistics .stats-head *,
+    .wpb_button.btn-filled,
+    footer ul.menu li.menu-item a:hover,
+    .widget_meta a:hover,
+    .widget_pages a:hover,
+    .blogloop-v1 .post-name a:hover,
+    .blogloop-v2 .post-name a:hover,
+    .blogloop-v3 .post-name a:hover,
+    .blogloop-v4 .post-name a:hover,
+    .blogloop-v5 .post-name a:hover,
+    .post-category-comment-date span a:hover,
+    .post-category-comment-date span:hover,
+    .list-view .post-details .post-category-comment-date i:hover,
+    .list-view .post-details .post-category-comment-date a:hover,
+    .simple_sermon_content_top h4,
+    .page_404_v1 h1,
+    .mt_cars--single-main-pic .post-name > a,
+    .widget_recent_comments li:hover a,
+    .list-view .post-details .post-name a:hover,
+    .blogloop-v5 .post-details .post-sticky-label i,
+    header.header2 .header-info-group .header_text_title strong,
+    .widget_recent_entries_with_thumbnail li:hover a,
+    .widget_recent_entries li a:hover,
+    .blogloop-v1 .post-details .post-sticky-label i,
+    .blogloop-v2 .post-details .post-sticky-label i,
+    .blogloop-v3 .post-details .post-sticky-label i,
+    .blogloop-v4 .post-details .post-sticky-label i,
+    .blogloop-v5 .post-details .post-sticky-label i,
+    .error-404.not-found h1,
+    .header-info-group i,
+    .action-expand::after,
+    .list-view .post-details .post-excerpt .more-link:hover,
+    .header4 header .right-side-social-actions .social-links a:hover i,
+    #navbar .menu-item.selected > a, #navbar .menu-item:hover > a,
+    .sidebar-content .widget_nav_menu li a:hover,
+    .table-block-transactions th a:hover {
+        color: #ffd600;
+    }
+
+    /* NAVIGATION */
+    .navstyle-v8.header3 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v8.header3 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v1.header3 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v1.header2 #navbar .menu > .menu-item:hover > a,
+    #navbar ul.sub-menu li a:hover,
+    .navstyle-v4 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v4 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v3 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v3 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v3 #navbar .menu > .menu-item > a::before,
+    .navstyle-v3 #navbar .menu > .menu-item > a::after,
+    .navstyle-v2 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v2 #navbar .menu > .menu-item:hover > a,
+    #navbar .menu-item.selected > a, #navbar .menu-item:hover > a {
+        color: #ffd600;
+    }
+
+    .navstyle-v2.header3 #navbar .menu > .menu-item > a::before,
+    .navstyle-v2.header3 #navbar .menu > .menu-item > a::after,
+    .navstyle-v8 #navbar .menu > .menu-item > a::before,
+    .navstyle-v7 #navbar .menu > .menu-item .sub-menu > .menu-item > a:hover,
+    .navstyle-v7 #navbar .menu > .menu-item.current_page_item > a,
+    .navstyle-v7 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v7 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v6 #navbar .menu > .menu-item.current_page_item > a,
+    .navstyle-v6 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v6 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v5 #navbar .menu > .menu-item.current_page_item > a,
+    .navstyle-v5 #navbar .menu > .menu-item.current-menu-item > a,
+    .navstyle-v5 #navbar .menu > .menu-item:hover > a,
+    .navstyle-v2 #navbar .menu > .menu-item > a::before,
+    .navstyle-v2 #navbar .menu > .menu-item > a::after {
+        background: #ffd600;
+    }
+
+    /* Color Dark / Hovers */
+    .related-posts .post-name:hover a {
+        color: #e5c000;
+    }
+
+    /*------------------------------------------------------------------
+        BACKGROUND + BACKGROUND-COLOR
+    ------------------------------------------------------------------*/
+    .tagcloud > a:hover,
+    .modeltheme-icon-search,
+    .wpb_button::after,
+    .rotate45,
+    .latest-posts .post-date-day,
+    .latest-posts h3,
+    .latest-tweets h3,
+    .latest-videos h3,
+    .button.solid-button,
+    button.vc_btn,
+    .pricing-table.recomended .table-content,
+    .pricing-table .table-content:hover,
+    .pricing-table.Recommended .table-content,
+    .pricing-table.recommended .table-content,
+    .pricing-table.recomended .table-content,
+    .pricing-table .table-content:hover,
+    .block-triangle,
+    .owl-theme .owl-controls .owl-page span,
+    body .vc_btn.vc_btn-blue,
+    body a.vc_btn.vc_btn-blue,
+    body button.vc_btn.vc_btn-blue,
+    .pagination .page-numbers.current,
+    .pagination .page-numbers:hover,
+    #subscribe > button[type='submit'],
+    .social-sharer > li:hover,
+    .prev-next-post a:hover .rotate45,
+    .masonry_banner.default-skin,
+    .form-submit input,
+    .member-header::before,
+    .member-header::after,
+    .member-footer .social::before,
+    .member-footer .social::after,
+    .subscribe > button[type='submit'],
+    .no-results input[type='submit'],
+    h3#reply-title::after,
+    .newspaper-info,
+    header.header1 .header-nav-actions .shop_cart,
+    .categories_shortcode .owl-controls .owl-buttons i:hover,
+    .widget-title:after,
+    h2.heading-bottom:after,
+    .single .content-car-heading:after,
+    .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active,
+    #primary .main-content ul li:not(.rotate45)::before,
+    .wpcf7-form .wpcf7-submit,
+    ul.ecs-event-list li span,
+    #contact_form2 .solid-button.button,
+    .navbar-default .navbar-toggle .icon-bar,
+    .details-container > div.details-item .amount, .details-container > div.details-item ins,
+    .modeltheme-search .search-submit,
+    .pricing-table.recommended .table-content .title-pricing,
+    .pricing-table .table-content:hover .title-pricing,
+    .pricing-table.recommended .button.solid-button,
+    #navbar ul.sub-menu li a:hover,
+    .blogloop-v5 .absolute-date-badge span,
+    .post-category-date a[rel="tag"]
+    #navbar .mt-icon-list-item:hover,
+    .mt_car--single-gallery.mt_car--featured-single-gallery:hover,
+    footer .mc4wp-form-fields input[type="submit"],
+    .modeltheme-pagination.pagination .page-numbers.current,
+    .pricing-table .table-content:hover .button.solid-button,
+    footer .footer-top .menu .menu-item a::before,
+    .mt-car-search .submit .form-control,
+    .blogloop-v4.list-view .post-date,
+    header .top-header,
+    .navbar-toggle .icon-bar,
+    .back-to-top,
+    .post-password-form input[type="submit"],
+    .search-form input[type="submit"],
+    .post-password-form input[type='submit'] {
+        background: #ffd600;
+    }
+
+    .modeltheme-search.modeltheme-search-open .modeltheme-icon-search,
+    .no-js .modeltheme-search .modeltheme-icon-search,
+    .modeltheme-icon-search:hover,
+    .latest-posts .post-date-month,
+    .button.solid-button:hover,
+    body .vc_btn.vc_btn-blue:hover,
+    body a.vc_btn.vc_btn-blue:hover,
+    .post-category-date a[rel="tag"]:hover,
+    .single-post-tags > a:hover,
+    body button.vc_btn.vc_btn-blue:hover,
+    .blogloop-v5 .absolute-date-badge span:hover,
+    .mt-car-search .submit .form-control:hover,
+    #contact_form2 .solid-button.button:hover,
+    .subscribe > button[type='submit']:hover,
+    footer .mc4wp-form-fields input[type="submit"]:hover,
+    .no-results.not-found .search-submit:hover,
+    .no-results input[type='submit']:hover,
+    ul.ecs-event-list li span:hover,
+    .pricing-table.recommended .table-content .price_circle,
+    .pricing-table .table-content:hover .price_circle,
+    #modal-search-form .modal-content input.search-input,
+    .wpcf7-form .wpcf7-submit:hover,
+    .form-submit input:hover,
+    .blogloop-v4.list-view .post-date a:hover,
+    .pricing-table.recommended .button.solid-button:hover,
+    .search-form input[type="submit"]:hover,
+    .modeltheme-pagination.pagination .page-numbers.current:hover,
+    .error-return-home.text-center > a:hover,
+    .pricing-table .table-content:hover .button.solid-button:hover,
+    .post-password-form input[type="submit"]:hover,
+    .navbar-toggle .navbar-toggle:hover .icon-bar,
+    .back-to-top:hover,
+    .post-password-form input[type='submit']:hover {
+        background: #e5c000;
+    }
+
+    .tagcloud > a:hover {
+        background: #e5c000 !important;
+    }
+
+    .flickr_badge_image a::after,
+    .thumbnail-overlay,
+    .portfolio-hover,
+    .pastor-image-content .details-holder,
+    .item-description .holder-top,
+    blockquote::before {
+        background: rgba(255, 214, 0, 0.7);
+    }
+
+    /*------------------------------------------------------------------
+        BORDER-COLOR
+    ------------------------------------------------------------------*/
+    .comment-form input,
+    .comment-form textarea,
+    .author-bio,
+    blockquote,
+    .widget_popular_recent_tabs .nav-tabs > li.active,
+    body .left-border,
+    body .right-border,
+    body .member-header,
+    body .member-footer .social,
+    body .button[type='submit'],
+    .navbar ul li ul.sub-menu,
+    .wpb_content_element .wpb_tabs_nav li.ui-tabs-active,
+    #contact-us .form-control:focus,
+    .sale_banner_holder:hover,
+    .testimonial-img,
+    .wpcf7-form input:focus,
+    .wpcf7-form textarea:focus,
+    .navbar-default .navbar-toggle:hover,
+    .header_search_form,
+    .list-view .post-details .post-excerpt .more-link:hover {
+        border-color: #ffd600;
+    }
+
+    header .navbar-toggle,
+    .navbar-default .navbar-toggle {
+        border: 2px solid #ffd600;
+    }
+</style>
+<style type="text/css">
+    .recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+</style>
+<style type="text/css" title="dynamic-css" class="options-output">
+    .fixed-sidebar-menu {
+    background-color: rgba(37, 37, 37, 0.95);
+}
+
+#navbar .menu-item > a,
+.navbar-nav .search_products a,
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+body #navbar .menu-item.selected > a, body #navbar .menu-item:hover > a {
+    color: #ffd600;
+}
+
+#navbar .sub-menu, .navbar ul li ul.sub-menu {
+    background-color: #f7f7f7;
+}
+
+#navbar ul.sub-menu li a {
+    color: #252525;
+}
+
+#navbar ul.sub-menu li a:hover {
+    background-color: transparent;
+}
+
+body {
+    font-family: Montserrat;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading body {
+    opacity: 0;
+}
+
+.ie.wf-loading body {
+    visibility: hidden;
+}
+
+h1, h1 span {
+    font-family: Montserrat;
+    line-height: 36px;
+    font-size: 36px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h1, .wf-loading h1 span, {
+    opacity: 0;
+}
+
+.ie.wf-loading h1, .ie.wf-loading h1 span {
+    visibility: hidden;
+}
+
+h2 {
+    font-family: Montserrat;
+    line-height: 30px;
+    font-size: 30px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h2 {
+    opacity: 0;
+}
+
+.ie.wf-loading h2 {
+    visibility: hidden;
+}
+
+h3 {
+    font-family: Montserrat;
+    line-height: 24px;
+    font-size: 22px;
+    font-weight: 700;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h3 {
+    opacity: 0;
+}
+
+.ie.wf-loading h3 {
+    visibility: hidden;
+}
+
+h4 {
+    font-family: Montserrat;
+    line-height: 18px;
+    font-size: 18px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h4 {
+    opacity: 0;
+}
+
+.ie.wf-loading h4 {
+    visibility: hidden;
+}
+
+h5 {
+    font-family: Montserrat;
+    line-height: 14px;
+    font-size: 14px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h5 {
+    opacity: 0;
+}
+
+.ie.wf-loading h5 {
+    visibility: hidden;
+}
+
+h6 {
+    font-family: Montserrat;
+    line-height: 12px;
+    font-size: 12px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h6 {
+    opacity: 0;
+}
+
+.ie.wf-loading h6 {
+    visibility: hidden;
+}
+
+input, textarea {
+    font-family: Montserrat;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading input, .wf-loading textarea {
+    opacity: 0;
+}
+
+.ie.wf-loading input, .ie.wf-loading textarea {
+    visibility: hidden;
+}
+
+input[type="submit"] {
+    font-family: Montserrat;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading input[type="submit"] {
+    opacity: 0;
+}
+
+.ie.wf-loading input[type="submit"] {
+    visibility: hidden;
+}
+
+.navbar-default {
+    background-color: #252525;
+}
+
+.fixed-sidebar-menu {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+footer .footer-top {
+    background-size: cover;
+    background-image: url('/coinhoarder/img/slider/background4.jpg');
+}
+
+footer .footer-top h1.widget-title, footer .footer-top h3.widget-title, footer .footer-top .widget-title {
+    color: #ffffff;
+}
+
+.footer-row-1 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.footer-row-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.footer-row-1 {
+    border-top: 0px solid #515b5e;
+    border-bottom: 0px solid #515b5e;
+    border-left: 0px solid #515b5e;
+    border-right: 0px solid #515b5e;
+}
+
+footer .footer {
+    background-color: #202020;
+}
+
+footer .footer h1.widget-title, footer .footer h3.widget-title, footer .footer .widget-title {
+    color: #ffffff;
+}
+
+.single article .article-content p, p, .post-excerpt {
+    font-family: Montserrat;
+    line-height: 25px;
+    color: #777;
+    font-size: 15px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading .single article .article-content p, .wf-loading p, .wf-loading .post-excerpt, {
+    opacity: 0;
+}
+
+.ie.wf-loading .single article .article-content p, .ie.wf-loading p, .ie.wf-loading .post-excerpt, {
+    visibility: hidden;
+}
+</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">
+    .vc_custom_1510145298908 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+    background: #252525 url(/coinhoarder/img/slider/background5.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1509621455423 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+    /*background-image: url(/coinhoarder/img/slider/background1.png) !important;*/
+}
+
+.vc_custom_1509621455424 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+    background-image: url(/coinhoarder/img/slider/background7.jpg);
+}
+
+.vc_custom_1510218413928 {
+    margin-bottom: 0px !important;
+    padding-top: 105px !important;
+    padding-bottom: 120px !important;
+    background-image: url(/coinhoarder/img/slider/background3.jpg) !important;
+}
+
+.vc_custom_1509623301946 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+    background-image: url(/coinhoarder/img/slider/background7.jpg) !important;
+}
+
+.vc_custom_1510219006291 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+}
+
+.vc_custom_1509627633817 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 70px !important;
+    background-image: url(/coinhoarder/img/slider/background8.jpg) !important;
+}
+
+.vc_custom_1509630501820 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 90px !important;
+    padding-bottom: 90px !important;
+    background-image: url(/coinhoarder/img/slider/background2.jpg) !important;
+}
+
+.vc_custom_1509630337729 {
+    margin-bottom: 0px !important;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    background-color: #ffd600 !important;
+}
+
+.vc_custom_1509617964904 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1510663320281 {
+    margin-top: 30px !important;
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1510221826540 {
+    margin-top: 5px !important;
+    margin-bottom: 10px !important;
+}
+
+.vc_custom_1510222242762 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1510144209821 {
+    margin-bottom: 5px !important;
+}
+
+.vc_custom_1509621838573 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509621896054 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1510670706843 {
+    padding-top: 5px !important;
+}
+
+.vc_custom_1510147428598 {
+    margin-top: 6px !important;
+    margin-bottom: 15px !important;
+}
+
+.vc_custom_1510670714563 {
+    padding-top: 5px !important;
+}
+
+.vc_custom_1510147403534 {
+    margin-top: 6px !important;
+    margin-bottom: 15px !important;
+}
+
+.vc_custom_1510670725003 {
+    padding-top: 5px !important;
+}
+
+.vc_custom_1510147414492 {
+    margin-top: 6px !important;
+    margin-bottom: 15px !important;
+}
+
+.vc_custom_1510149372559 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1510149379207 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1510149385785 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1510149391738 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509623292032 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509623317857 {
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509699679373 {
+    padding-top: 30px !important;
+}
+
+.vc_custom_1509699688509 {
+    padding-top: 30px !important;
+}
+
+.vc_custom_1509626766777 {
+    padding-top: 30px !important;
+}
+
+.vc_custom_1510234808641 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509627496151 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509623292032 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1509630229674 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1510307086908 {
+    padding-top: 20px !important;
+}
+
+.vc_custom_1510670755553 {
+    margin-top: 0px !important;
+}
+</style>
+
+
+
+
+<!-- a necessità nelle pagine  -->
+
+<!--chartjs
+<script type='text/javascript'
+        src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js'></script>
+-->

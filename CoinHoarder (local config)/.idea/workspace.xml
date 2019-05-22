@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b0c8c53-dea1-4801-a931-27245ba964ad" name="Default" comment="" />
+    <ignored path="CoinHoarder.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../CoinHoarder\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CoinHoarder" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_sql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/sql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_change.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="39" column="60" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_replace.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="1441" column="8" selection-start-line="1441" selection-start-column="8" selection-end-line="1441" selection-end-column="8" />
+              <folding>
+                <element signature="e#32134#38449#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="e#38489#46187#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="e#46238#53560#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="e#53605#58914#0" />
+                <element signature="e#58958#70411#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="e#70456#76616#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="e#76654#88171#0" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myhoard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/overview.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2329">
+              <caret line="142" column="56" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>status &gt; 0</find>
+      <find>example</find>
+      <find>document_</find>
+      <find>drop</find>
+      <find>/assets</find>
+      <find>assets/</find>
+      <find>image</find>
+      <find>progress</find>
+      <find>image-holder</find>
+      <find>form</find>
+      <find>ajax</find>
+      <find>mail.png</find>
+      <find>upload</find>
+      <find>DOCUMENT_ROOT</find>
+      <find>ajax.php</find>
+      <find>tele</find>
+      <find>soci</find>
+      <find>filljson</find>
+      <find>enable it</find>
+      <find>thrott</find>
+      <find>$_SESSION['user']['telegram']</find>
+      <find>blockexplorer.com</find>
+      <find>getbalance</find>
+      <find>vote</find>
+      <find>max-width</find>
+      <find>@media (max-width: 1023px)</find>
+      <find>cryptocomp</find>
+      <find>blockexplorer</find>
+      <find>3.</find>
+      <find>8bit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>JQ</replace>
+      <replace>jQuery(</replace>
+      <replace>xcv</replace>
+      <replace>=&gt;</replace>
+      <replace>JQuery(</replace>
+      <replace>if (JQuery</replace>
+      <replace>plugins/jquery</replace>
+      <replace>:</replace>
+      <replace>769</replace>
+      <replace>768</replace>
+      <replace>prefCurrency</replace>
+      <replace>$coinsshares</replace>
+      <replace>.5</replace>
+      <replace>$rating</replace>
+      <replace>picture13</replace>
+      <replace>element/picture14</replace>
+      <replace>picture14</replace>
+      <replace>element/picture15</replace>
+      <replace>logo_yellow</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\CoinHoarder\plugins\tradingview\charting_library</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder\js</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder\plugins\tradingview</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder\plugins\tradingview\datafeeds</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder\css</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder\</dir>
+      <dir>C:\xampp\htdocs\CoinHoarder</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/theme/js_composer.css" />
+        <option value="$PROJECT_DIR$/plugins/js_composer/assets/css/js_composer.min.css" />
+        <option value="$PROJECT_DIR$/fonts/cryptocoins.css" />
+        <option value="$PROJECT_DIR$/include/sideBar.php" />
+        <option value="$PROJECT_DIR$/css/skin-colors/skin-yellow.css" />
+        <option value="$PROJECT_DIR$/css/night-mode.css" />
+        <option value="$PROJECT_DIR$/css/theme/styles-footer.css" />
+        <option value="$PROJECT_DIR$/include/slider.htm" />
+        <option value="$PROJECT_DIR$/include/development.php" />
+        <option value="$PROJECT_DIR$/include/faq.php" />
+        <option value="$PROJECT_DIR$/include/policy.htm" />
+        <option value="$PROJECT_DIR$/include/footer.htm" />
+        <option value="$PROJECT_DIR$/css/shortcodes.css" />
+        <option value="$PROJECT_DIR$/include/terms.htm" />
+        <option value="$PROJECT_DIR$/include/privacy.htm" />
+        <option value="$PROJECT_DIR$/css/theme/responsive.css" />
+        <option value="$PROJECT_DIR$/plugins/player/css/player.css" />
+        <option value="$PROJECT_DIR$/css/theme/styles-headers.css" />
+        <option value="$PROJECT_DIR$/css/theme/media-screens.css" />
+        <option value="$PROJECT_DIR$/include/cryptolist.php" />
+        <option value="$PROJECT_DIR$/include/membership.php" />
+        <option value="$PROJECT_DIR$/include/sideBar.htm" />
+        <option value="$PROJECT_DIR$/include/example.htm" />
+        <option value="$PROJECT_DIR$/plugins/player/js/player.js" />
+        <option value="$PROJECT_DIR$/class/superset.php" />
+        <option value="$PROJECT_DIR$/superset.php" />
+        <option value="$PROJECT_DIR$/include/block.php" />
+        <option value="$PROJECT_DIR$/css/theme/styles.css" />
+        <option value="$PROJECT_DIR$/include/hoardBar.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/example.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/include/vote.php" />
+        <option value="$PROJECT_DIR$/include/statusBar.php" />
+        <option value="$PROJECT_DIR$/include/contacts.php" />
+        <option value="$PROJECT_DIR$/include/homeBar.php" />
+        <option value="$PROJECT_DIR$/include/linkrel.htm" />
+        <option value="$PROJECT_DIR$/js/nav_hoard.js" />
+        <option value="$PROJECT_DIR$/js/superset.js" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/class/superset_aj.php" />
+        <option value="$PROJECT_DIR$/include/overview.php" />
+        <option value="$PROJECT_DIR$/myhoard.php" />
+        <option value="$PROJECT_DIR$/include/transactions.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/js/custom.min.js" />
+        <option value="$PROJECT_DIR$/account.php" />
+        <option value="$PROJECT_DIR$/class/ajax.php" />
+        <option value="$PROJECT_DIR$/class/functions.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" zd_debug_port="9000" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="4d96fb8a-a7c2-4d34-b8fe-a8181b31eb41" name="Unnamed" port="81" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\xampp\htdocs\cartella" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:81/dashboard/index.php" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP for xampp" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="485" />
+    <option name="y" value="24" />
+    <option name="width" value="1442" />
+    <option name="height" value="1001" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CoinHoarder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoinHoarder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinHoarder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoinHoarder" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinHoarder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoinHoarder" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Constants" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CoinHoarder_prod" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CoinHoarder\img\element" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\include" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\css" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\js" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\plugins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CoinHoarder\fonts" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\plugins\jquery" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\plugins\amcharts" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\plugins\js_composer\assets\lib\bower\font-awesome\css" />
+      <recent name="C:\xampp\htdocs\CoinHoarder\js\trasher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.Website quicklaunch">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/CoinHoarder/wp-content/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="WebServer start" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../" port="81">
+      <method v="2" />
+    </configuration>
+    <configuration name="Website quicklaunch" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Unnamed" start_url="/CoinHoarder/myhoard.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="PHP Built-in Web Server.WebServer start" />
+      <item itemvalue="PHP Web Page.Website quicklaunch" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b0c8c53-dea1-4801-a931-27245ba964ad" name="Default" comment="" />
+      <created>1515023566604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515023566604</updated>
+      <workItem from="1515023568089" duration="2131000" />
+      <workItem from="1515094092828" duration="8155000" />
+      <workItem from="1515137189931" duration="7035000" />
+      <workItem from="1515156004952" duration="4176000" />
+      <workItem from="1515177576944" duration="4623000" />
+      <workItem from="1515269403226" duration="3527000" />
+      <workItem from="1515278250929" duration="3178000" />
+      <workItem from="1515520466910" duration="7667000" />
+      <workItem from="1515801923229" duration="4206000" />
+      <workItem from="1515842168448" duration="27002000" />
+      <workItem from="1515945193195" duration="7088000" />
+      <workItem from="1515959952464" duration="8174000" />
+      <workItem from="1516377102039" duration="1815000" />
+      <workItem from="1516379771390" duration="1412000" />
+      <workItem from="1516390943226" duration="1348000" />
+      <workItem from="1516737789519" duration="5136000" />
+      <workItem from="1516967384016" duration="13268000" />
+      <workItem from="1517001826091" duration="1762000" />
+      <workItem from="1517045646761" duration="142000" />
+      <workItem from="1517047407772" duration="6000000" />
+      <workItem from="1517055833960" duration="3513000" />
+      <workItem from="1517687365377" duration="622000" />
+      <workItem from="1517776639276" duration="2333000" />
+      <workItem from="1517786937012" duration="4583000" />
+      <workItem from="1518277254689" duration="8782000" />
+      <workItem from="1518382016515" duration="1914000" />
+      <workItem from="1518441001065" duration="327000" />
+      <workItem from="1518441343026" duration="19837000" />
+      <workItem from="1518679202236" duration="1584000" />
+      <workItem from="1518942546704" duration="11748000" />
+      <workItem from="1519024119628" duration="13802000" />
+      <workItem from="1519039197157" duration="10536000" />
+      <workItem from="1519110429525" duration="11077000" />
+      <workItem from="1519131644345" duration="10189000" />
+      <workItem from="1519229539055" duration="2745000" />
+      <workItem from="1519369888124" duration="26409000" />
+      <workItem from="1519465266651" duration="10575000" />
+      <workItem from="1519577684555" duration="5127000" />
+      <workItem from="1519665646255" duration="8029000" />
+      <workItem from="1519907757546" duration="8377000" />
+      <workItem from="1519936075816" duration="2463000" />
+      <workItem from="1519943258679" duration="460000" />
+      <workItem from="1519943731156" duration="509000" />
+      <workItem from="1519944251939" duration="42000" />
+      <workItem from="1519944304260" duration="143000" />
+      <workItem from="1519944932987" duration="511000" />
+      <workItem from="1519947147099" duration="51000" />
+      <workItem from="1519947223564" duration="73000" />
+      <workItem from="1519975734261" duration="16859000" />
+      <workItem from="1520063711974" duration="21862000" />
+      <workItem from="1520102125600" duration="6414000" />
+      <workItem from="1520148479955" duration="17309000" />
+      <workItem from="1520181612968" duration="4014000" />
+      <workItem from="1520256175689" duration="6607000" />
+      <workItem from="1520274376994" duration="1823000" />
+      <workItem from="1520613688752" duration="16060000" />
+      <workItem from="1520667156747" duration="19831000" />
+      <workItem from="1520696921368" duration="10910000" />
+      <workItem from="1520760236162" duration="5892000" />
+      <workItem from="1520876601250" duration="4929000" />
+      <workItem from="1521125469801" duration="4012000" />
+      <workItem from="1521233237522" duration="4289000" />
+      <workItem from="1521361160870" duration="23064000" />
+      <workItem from="1521442721391" duration="893000" />
+      <workItem from="1521479508510" duration="8952000" />
+      <workItem from="1521908033160" duration="7262000" />
+      <workItem from="1521984542016" duration="10595000" />
+      <workItem from="1522009761801" duration="1863000" />
+      <workItem from="1524298711031" duration="39473000" />
+      <workItem from="1524377000264" duration="309000" />
+      <workItem from="1524388430675" duration="20975000" />
+      <workItem from="1524426963231" duration="3642000" />
+      <workItem from="1524517262925" duration="4290000" />
+      <workItem from="1524547716893" duration="2528000" />
+      <workItem from="1524598078332" duration="12275000" />
+      <workItem from="1524636756826" duration="25010000" />
+      <workItem from="1524764520451" duration="9386000" />
+      <workItem from="1524781046289" duration="1554000" />
+      <workItem from="1524850025359" duration="15286000" />
+      <workItem from="1524940228662" duration="8926000" />
+      <workItem from="1524982065261" duration="26170000" />
+      <workItem from="1525021527047" duration="2106000" />
+      <workItem from="1525092336077" duration="23523000" />
+      <workItem from="1525154445186" duration="25215000" />
+      <workItem from="1525201937859" duration="3910000" />
+      <workItem from="1525240226427" duration="3276000" />
+      <workItem from="1525286587347" duration="8102000" />
+      <workItem from="1525374029343" duration="11144000" />
+      <workItem from="1525459447252" duration="10519000" />
+      <workItem from="1525507433394" duration="5517000" />
+      <workItem from="1525522854682" duration="3350000" />
+      <workItem from="1525534401310" duration="11518000" />
+      <workItem from="1525557911832" duration="49000" />
+      <workItem from="1525592477290" duration="16205000" />
+      <workItem from="1525626758835" duration="2724000" />
+      <workItem from="1525635485578" duration="1778000" />
+      <workItem from="1525846885713" duration="22738000" />
+      <workItem from="1532273762373" duration="384000" />
+      <workItem from="1532274174261" duration="17452000" />
+      <workItem from="1533049118024" duration="11074000" />
+      <workItem from="1533116827095" duration="12823000" />
+      <workItem from="1533145258832" duration="5053000" />
+      <workItem from="1533193371640" duration="5993000" />
+      <workItem from="1533714844523" duration="8531000" />
+      <workItem from="1533797003120" duration="6764000" />
+      <workItem from="1533890643313" duration="7401000" />
+      <workItem from="1534920240880" duration="24898000" />
+      <workItem from="1535026035422" duration="23243000" />
+      <workItem from="1535118927112" duration="18644000" />
+      <workItem from="1535205545231" duration="688000" />
+      <workItem from="1535264938485" duration="5533000" />
+      <workItem from="1535287857893" duration="16404000" />
+      <workItem from="1535380473778" duration="17867000" />
+      <workItem from="1535437023941" duration="4591000" />
+      <workItem from="1535458631193" duration="30913000" />
+      <workItem from="1535540070498" duration="14991000" />
+      <workItem from="1535565208785" duration="5619000" />
+      <workItem from="1535623957894" duration="6894000" />
+      <workItem from="1535647191326" duration="6477000" />
+      <workItem from="1535733747464" duration="15897000" />
+      <workItem from="1535781631651" duration="13454000" />
+      <workItem from="1535824317675" duration="4150000" />
+      <workItem from="1535833805234" duration="1264000" />
+      <workItem from="1535870773891" duration="10194000" />
+      <workItem from="1535899357150" duration="4963000" />
+      <workItem from="1540648789607" duration="28365000" />
+      <workItem from="1541072738072" duration="20637000" />
+      <workItem from="1541140541133" duration="7189000" />
+      <workItem from="1541194813468" duration="10023000" />
+      <workItem from="1541231046081" duration="38640000" />
+      <workItem from="1541319331508" duration="22439000" />
+      <workItem from="1541613943591" duration="3968000" />
+      <workItem from="1541837292832" duration="69000" />
+      <workItem from="1541837538862" duration="781000" />
+      <workItem from="1541838363227" duration="58000" />
+      <workItem from="1541838446887" duration="37571000" />
+      <workItem from="1541932737215" duration="8000000" />
+      <workItem from="1542060221061" duration="301000" />
+      <workItem from="1542314691950" duration="1347000" />
+      <workItem from="1542447476413" duration="8678000" />
+      <workItem from="1542534070793" duration="10514000" />
+      <workItem from="1543043086373" duration="11611000" />
+      <workItem from="1543132497359" duration="14679000" />
+      <workItem from="1543170914767" duration="1651000" />
+      <workItem from="1543216395704" duration="2450000" />
+      <workItem from="1543650170755" duration="13036000" />
+      <workItem from="1543703595293" duration="301000" />
+      <workItem from="1543703919087" duration="5620000" />
+      <workItem from="1543737000484" duration="24790000" />
+      <workItem from="1548227872117" duration="5169000" />
+      <workItem from="1548344134601" duration="13094000" />
+      <workItem from="1548401882282" duration="24127000" />
+      <workItem from="1548544013504" duration="19870000" />
+      <workItem from="1548612566567" duration="1874000" />
+      <workItem from="1550670924287" duration="17005000" />
+      <workItem from="1550921720527" duration="14462000" />
+      <workItem from="1551091282848" duration="7437000" />
+      <workItem from="1551123751959" duration="15012000" />
+      <workItem from="1551169175325" duration="261000" />
+      <workItem from="1551193657731" duration="20567000" />
+      <workItem from="1551291713686" duration="2648000" />
+      <workItem from="1551310800330" duration="883000" />
+      <workItem from="1551337478279" duration="4564000" />
+      <workItem from="1551369160832" duration="2403000" />
+      <workItem from="1551383827476" duration="4585000" />
+      <workItem from="1551443766870" duration="8966000" />
+      <workItem from="1551514105014" duration="33908000" />
+      <workItem from="1551595868674" duration="16707000" />
+      <workItem from="1551644831863" duration="5502000" />
+      <workItem from="1551681812594" duration="21739000" />
+      <workItem from="1551726366052" duration="89000" />
+      <workItem from="1551734532748" duration="3133000" />
+      <workItem from="1552118316626" duration="33190000" />
+      <workItem from="1552334619128" duration="8940000" />
+      <workItem from="1552424229270" duration="828000" />
+      <workItem from="1552465533165" duration="4359000" />
+      <workItem from="1552510547640" duration="8523000" />
+      <workItem from="1552552549058" duration="2981000" />
+      <workItem from="1552577876715" duration="854000" />
+      <workItem from="1552581135722" duration="207000" />
+      <workItem from="1552587803329" duration="6131000" />
+      <workItem from="1552682952048" duration="7826000" />
+      <workItem from="1552721456279" duration="18987000" />
+      <workItem from="1552807342415" duration="10183000" />
+      <workItem from="1552843237697" duration="7076000" />
+      <workItem from="1552942203882" duration="9406000" />
+      <workItem from="1552984074971" duration="5013000" />
+      <workItem from="1552994690595" duration="1203000" />
+      <workItem from="1553020393615" duration="25980000" />
+      <workItem from="1553185096769" duration="2856000" />
+      <workItem from="1553188011413" duration="1788000" />
+      <workItem from="1553205149161" duration="4030000" />
+      <workItem from="1553210080577" duration="7000" />
+      <workItem from="1553210113805" duration="96000" />
+      <workItem from="1553280484891" duration="9485000" />
+      <workItem from="1553299462770" duration="2070000" />
+      <workItem from="1553327643489" duration="32737000" />
+      <workItem from="1553416076430" duration="4272000" />
+      <workItem from="1553445259744" duration="1022000" />
+      <workItem from="1553535548149" duration="11863000" />
+      <workItem from="1554157443702" duration="2000" />
+      <workItem from="1554157715690" duration="12000" />
+      <workItem from="1554204256576" duration="658000" />
+      <workItem from="1554239471686" duration="2767000" />
+      <workItem from="1554301432750" duration="48000" />
+      <workItem from="1554312671133" duration="7828000" />
+      <workItem from="1554379598506" duration="2208000" />
+      <workItem from="1554895632959" duration="3622000" />
+      <workItem from="1554924750007" duration="5076000" />
+      <workItem from="1554985386863" duration="3079000" />
+      <workItem from="1555011799977" duration="2795000" />
+      <workItem from="1555145480205" duration="1305000" />
+      <workItem from="1555146869297" duration="1798000" />
+      <workItem from="1555148805423" duration="39000" />
+      <workItem from="1555151822797" duration="1481000" />
+      <workItem from="1555153535590" duration="18000" />
+      <workItem from="1555153643499" duration="66000" />
+      <workItem from="1555153869953" duration="304000" />
+      <workItem from="1555155328343" duration="9744000" />
+      <workItem from="1555181338161" duration="269000" />
+      <workItem from="1555187281171" duration="5687000" />
+      <workItem from="1555225306963" duration="3452000" />
+      <workItem from="1555238078016" duration="400000" />
+      <workItem from="1555248138457" duration="3829000" />
+      <workItem from="1555266320046" duration="49000" />
+      <workItem from="1555272465616" duration="2379000" />
+      <workItem from="1555535908825" duration="5425000" />
+      <workItem from="1555590351781" duration="12846000" />
+      <workItem from="1555654926044" duration="25470000" />
+      <workItem from="1555764338083" duration="21748000" />
+      <workItem from="1555801200120" duration="38000" />
+      <workItem from="1555829368773" duration="665000" />
+      <workItem from="1555858498074" duration="755000" />
+      <workItem from="1555862075313" duration="8761000" />
+      <workItem from="1555940964677" duration="96000" />
+      <workItem from="1556307453498" duration="2245000" />
+      <workItem from="1556311805908" duration="107000" />
+      <workItem from="1556311935725" duration="20000" />
+      <workItem from="1557731303899" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1977296000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944258" visible="true" weight="0.2675906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005574" side_tool="true" weight="0.17963752" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="1" />
+      <window_info anchor="bottom" id="Inspection Results" order="2" sideWeight="0.490625" weight="0.34143764" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4859375" weight="0.32887402" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.36575052" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49200428" weight="0.28762543" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5079957" side_tool="true" weight="0.18201517" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49375" weight="0.32882884" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.5127932" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/dist/bundle.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/lib/symbols-storage.js</url>
+          <line>88</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/lib/symbols-storage.js</url>
+          <line>80</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/lib/symbols-storage.js</url>
+          <line>62</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/lib/symbols-storage.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/lib/symbols-storage.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/charts.js</url>
+          <line>1167</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/class/functions.php</url>
+          <line>78</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="$a" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/notfound.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/membership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="103" column="121" selection-start-line="103" selection-start-column="121" selection-end-line="103" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/faq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="86" column="64" selection-start-line="86" selection-start-column="64" selection-end-line="86" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/development.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="85" column="117" selection-start-line="85" selection-start-column="117" selection-end-line="85" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cryptolist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/player/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="155" column="5" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/js_composer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret column="13931" selection-start-column="13931" selection-end-column="13931" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/superset.php" />
+    <entry file="file://$PROJECT_DIR$/include/block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/tradingview/datafeeds/udf/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13704" column="4" selection-start-line="13704" selection-start-column="4" selection-end-line="13704" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21709">
+          <caret line="1277" column="14" selection-start-line="1277" selection-start-column="14" selection-end-line="1277" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="660" column="34" selection-start-line="660" selection-start-column="34" selection-end-line="660" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21305" selection-start-line="3" selection-start-column="21300" selection-end-line="3" selection-end-column="21305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/tradingview/charting_library/static/bundles/library.01b9186ecddcadea2011.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7429">
+          <caret line="437" column="1198" selection-start-line="437" selection-start-column="1198" selection-end-line="437" selection-end-column="1198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="154" column="91" selection-start-line="154" selection-start-column="91" selection-end-line="154" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/statusBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/homeBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="83" selection-start-line="84" selection-start-column="83" selection-end-line="84" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="103" selection-start-line="67" selection-start-column="103" selection-end-line="67" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/linkrel.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome-animation.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/tradingview/charting_library/static/bundles/vendors.838cbe47eebe3eb9244f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="120" column="393" selection-start-line="120" selection-start-column="393" selection-end-line="120" selection-end-column="393" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/superset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/superset_aj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="228" selection-start-line="4" selection-start-column="228" selection-end-line="4" selection-end-column="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/transactions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hoardBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav_hoard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169609">
+          <caret line="9977" column="12" selection-start-line="9977" selection-start-column="12" selection-end-line="9977" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="92" selection-start-line="321" selection-start-column="92" selection-end-line="321" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/profile-pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/slider.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="483" column="78" selection-start-line="483" selection-start-column="78" selection-end-line="483" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/filereader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4777">
+          <caret line="281" column="50" selection-start-line="281" selection-start-column="50" selection-end-line="281" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21862">
+          <caret line="1307" column="3" selection-start-line="1307" selection-start-column="3" selection-end-line="1307" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="124" column="47" selection-start-line="124" selection-start-column="47" selection-end-line="124" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+          <folding>
+            <element signature="n#deleteRememberDirective#0;n#Functions#0;n#!!top" />
+            <element signature="n#createRememberDirective#0;n#Functions#0;n#!!top" />
+            <element signature="n#resyncSessionIfNecessary#0;n#Functions#0;n#!!top" />
+            <element signature="n#processRememberDirective#0;n#Functions#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80206">
+          <caret line="4718" column="5" selection-start-line="4718" selection-start-column="5" selection-end-line="4718" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_replace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myhoard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/overview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="142" column="56" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="1441" column="8" selection-start-line="1441" selection-start-column="8" selection-end-line="1441" selection-end-column="8" />
+          <folding>
+            <element signature="e#32134#38449#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#38489#46187#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#46238#53560#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#53605#58914#0" />
+            <element signature="e#58958#70411#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#70456#76616#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#76654#88171#0" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
